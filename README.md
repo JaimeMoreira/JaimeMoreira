@@ -24,7 +24,7 @@ Após essa maravilhosa experiência, parti para outra área, a de técnico admin
 
 ## :cat:  GitHub Status 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaimeMoreira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaimeMoreira&theme=transparent&bg_color=000&border_color=3A3DC&show_icons=true&icon_color=3A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Calma pessoal! que isso vai melhorar :smile:
 
