@@ -1,6 +1,6 @@
 # :cactus: Olá! Sejam bem vindos ao meu mundo.
 
-## :technologist: Sobre mim:
+## :technologist: Sobre mim
 
 Me chamo <b>Jaime Moreira</b>, tenho 27 anos, sou de Salvador- Ba e atualmente estou no processo de graduação em Análise e Desenvolvimento de Sistemas. Trabalhei durante 6 anos como técnico de informática e help desk de 1° e 2° nível na Secretaria de Segurança Pública da Bahia, onde tive a oportunidade de aprender sobre Manutenção preventiva e corretiva de hardwares como: 
 
