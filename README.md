@@ -2,13 +2,15 @@
 
 ## :technologist: Sobre mim:
 
-Me chamo <b>Jaime Moreira</b>, tenho 27 anos, sou de Salvador- Ba e atualmente estou no processo de graduação em Análise e Desenvolvimento de Sistemas. Trabalhei durante 6 anos como técnico de informática e help desk de 1° e 2° nível na Secretaria de Segurança Pública da Bahia, onde tive a oportunidade de aprender sobre Manutenção preventiva e corretiva de hardwares como: 
+Me chamo <b>Jaime Moreira</b>, sou de Salvador- Ba e atualmente estou no processo de graduação em Análise e Desenvolvimento de Sistemas. Trabalhei durante 6 anos como técnico de informática e help desk de 1° e 2° nível na Secretaria de Segurança Pública da Bahia, onde tive a oportunidade de aprender sobre Manutenção preventiva e corretiva de hardwares como: 
 
 - Impressoras, câmeras, scanners, PC's, e dispositivos de segurança biométrica.
 
-- Aprendi muito também sobre: Redes, protocolos, Firewalls como CISCO ASA e Fortigate :lock:, sistemas como GLPI, Nagvis,Antivírus McAfee, Zabbix, AnyDesk, TeamView, Spark e hardwares biométricos, onde realizava instalação, treinamento e manutenção.
+Aprendi muito também sobre: 
 
-Após essa maravilhosa experiência, parti para outra área, a de técnico administrativo  na Secretaria de Educação da Bahia, onde me encontro agora. Buscando me aprimorar cada dia mais, desenvolvi ( e continuo me aprimorando) habilidades como Power BI, Google Sheets e Excel Avançado, para manipulação e visualização de dados através de gráficos e layouts simples de serem compreendidos. Estou buscando uma nova posição de trabalho, voltado para área de Desenvolvimento Web, que atualmente estou empenhado agregando conhecimentos para a criação de páginas e sistemas Web.
+- Redes, protocolos, Firewalls como CISCO ASA e Fortigate :lock:, sistemas como GLPI, Nagvis,Antivírus McAfee, Zabbix, AnyDesk, TeamView, Spark e hardwares biométricos, onde realizava instalação, treinamento e manutenção.
+
+Após essa maravilhosa experiência, em Março de 2023, parti para outra área, a de técnico administrativo na Secretaria de Educação da Bahia, onde permaneci durante 1 ano, e durante esse tempo iniciei também meus estudos na área da Programação. Buscando me aprimorar cada dia mais, desenvolvi ( e continuo me aprimorando) habilidades com ferramentas como: Power BI, Google Sheets e Excel Avançado, para manipulação e visualização de dados através de gráficos e layouts simples de serem compreendidos. Nos estudos para me tornar um desenvolvedor, estou me empenhando nos estudos de HTML5, CSS, JavaScript, Python, MySQL entre outras ferramentas. Estou buscando uma nova posição de trabalho, voltado para área de Desenvolvimento.
 
 ## :link: Conecte-se comigo 
 
