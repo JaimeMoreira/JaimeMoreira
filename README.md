@@ -2,7 +2,6 @@
 
 # :cactus: Olá! Sejam bem vindos ao meu mundo. :cactus:
 
-<<<<<<< HEAD
 ## Esse é um resumo sobre mim:
 </div>
 
@@ -48,10 +47,6 @@ Estou no momento ativo nos estudos do curso <b>CC50 de Harvard</b>, na minha gra
 <summary> Clique aqui e conheça um pouco da minha trajetória! </summary>
 
 Me chamo <b>Jaime Moreira</b>, sou de Salvador- Ba e atualmente estou no processo de graduação em Análise e Desenvolvimento de Sistemas (2° período). Trabalhei durante 6 anos como Analista de Suporte Service Desk na Secretaria de Segurança Pública da Bahia, onde tive a oportunidade de aprender sobre Manutenção preventiva e corretiva de hardwares como: 
-=======
-Trabalhei durante 6 anos como técnico de informática e help desk de 1° e 2° nível na Secretaria de Segurança Pública da Bahia, especializado em manutenção preventiva e corretiva de hardwares como: Pc's, Impressoras, câmeras, scanners e dispositivos de segurança biométrica. Tenho conhecimentos e habilidades também com: Redes, protocolos, Firewalls CISCO ASA e Fortigate 🔒, sistemas GLPI, Nagvis, Antivírus McAfee, Zabbix, AnyDesk, TeamView, Spark e hardwares biométricos (instalação, treinamento e manutenção).
-Já exerci o cargo de Assistente Administrativo por 4 anos (SAC/SAEB e SEC) onde desenvolvi e aprimorei meus conhecimentos em Power BI, Google Sheets, Excel Avançado, e outras ferramentas administrativas. Iniciei meus estudos na área da Programação em 2023, visando me tornar um Desenvolvedor. Atualmente estou empenhado em agregar stacks e habilidades em Html, CSS, JavaScript, Python, MySQL, Java, entre outras ferramentas. Estou buscando uma nova posição de trabalho, voltado para área de Desenvolvimento/Programação.
->>>>>>> 29078d84d24cc258d90a75b41b6fe2bdbac8c942
 
 
 </details>
