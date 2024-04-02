@@ -1,8 +1,52 @@
-# :cactus: Olá! Sejam bem vindos ao meu mundo.
+<div align = "center">
 
-## :technologist: Sobre mim
+# :cactus: Olá! Sejam bem vindos ao meu mundo. :cactus:
 
-Me chamo <b>Jaime Moreira</b>, sou de Salvador- Ba e atualmente estou no processo de graduação em Análise e Desenvolvimento de Sistemas. Trabalhei durante 6 anos como técnico de informática e help desk de 1° e 2° nível na Secretaria de Segurança Pública da Bahia, onde tive a oportunidade de aprender sobre Manutenção preventiva e corretiva de hardwares como: 
+## Esse é um resumo sobre mim:
+</div>
+
+- Aluno [Embaixador DIO Campus Expert Turma 7](https://web.dio.me/track/dio-campus-expert-turma-07) 🎯
+- Aluno [Harvard CC50 - Introdução a Ciência da Computação](https://ead.estudar.org.br/c/cc50/)🎯
+- Aluno [Faculdade Uniasselvi - Análise e Desenvolvimento de Sistemas](https://portal.uniasselvi.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/ead?gclid=Cj0KCQjw2a6wBhCVARIsABPeH1tVNd-ehZz7_WkqhMTbH-PQWKxDXyD6onpEsvsPTDQQWWhyCCasrdgaAhlMEALw_wcB)🎯
+
+Estou no momento ativo nos estudos do curso <b>CC50 de Harvard</b>, na minha graduação em Análise e Desenvolvimento de Sistemas e me desenvolvendo com cursos da <b>[DIO](https://www.dio.me/)</b> onde realizei (e continuo realizando) bootcamps e cursos voltados para a área da programação.  Vou deixar o link de alguns repositórios para que possam dar uma olhada :smile::
+
+- [Bootcamp Potência Tech iFood: Desafio - criando sua primeira landing page com Html e CSS.](https://github.com/JaimeMoreira/trilha-css-desafio-01)
+- [Bootcamp Santander 2023 Ciência de Dados com Python: Desafio - criando um relatório em Power BI.](https://github.com/JaimeMoreira/Desafio-DIO-PBI)
+- [CC50 Harvard: Desafio - Criar uma animação em scratch.](https://github.com/JaimeMoreira/scratch-Desafio)
+
+<div align = "center">
+
+## Tecnologias que estudo no momento :star:
+
+### Linguagens:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;&nbsp;![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### Frameworks:
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;&nbsp;![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Banco de Dados:
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Outras Ferramentas:
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+<img alt="Maker 5" src="https://img.shields.io/badge/-maker_5-2C6CAF?&logoColor=white&style=for-the-badge"/>&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;&nbsp;![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+</div>
+
+<div align = "center">
+
+## :evergreen_tree: Resumo profisional
+</div>
+
+<details>
+
+<summary> Clique aqui e conheça um pouco da minha trajetória! </summary>
+
+Me chamo <b>Jaime Moreira</b>, sou de Salvador- Ba e atualmente estou no processo de graduação em Análise e Desenvolvimento de Sistemas (2° período). Trabalhei durante 6 anos como Analista de Suporte Service Desk na Secretaria de Segurança Pública da Bahia, onde tive a oportunidade de aprender sobre Manutenção preventiva e corretiva de hardwares como: 
 
 - Impressoras, câmeras, scanners, PC's, e dispositivos de segurança biométrica.
 
@@ -12,23 +56,32 @@ Aprendi muito também sobre:
 
 Após essa maravilhosa experiência, em Março de 2023, parti para outra área, a de técnico administrativo na Secretaria de Educação da Bahia, onde permaneci durante 1 ano, e durante esse tempo iniciei também meus estudos na área da Programação. Buscando me aprimorar cada dia mais, desenvolvi ( e continuo me aprimorando) habilidades com ferramentas como: Power BI, Google Sheets e Excel Avançado, para manipulação e visualização de dados através de gráficos e layouts simples de serem compreendidos. Nos estudos para me tornar um desenvolvedor, estou me empenhando nos estudos de HTML5, CSS, JavaScript, Python, MySQL entre outras ferramentas. Estou buscando uma nova posição de trabalho, voltado para área de Desenvolvimento.
 
+</details>
+
+<div align = "center">
+
 ## :link: Conecte-se comigo 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=social&logo=linkedin&logoColor=0E47A8)](https://www.linkedin.com/in/jaime-moreira-a6a69a266/)&nbsp;&nbsp;&nbsp;&nbsp;[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=social&logo=microsoft-outlook&logoColor=0E47A8)](mailto:jaime.moreira1995@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-moreira-a6a69a266/)&nbsp;&nbsp;&nbsp;&nbsp;[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jaime.moreira1995@outlook.com)
 <br>
-<br>
 
-## :computer: Habilidades Atuais
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;&nbsp;![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)&nbsp;&nbsp;![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100%&width=300%&section=footer"/>
+</div>
 
-## :books: Habilidades em Estudo
-<img alt="Maker 5" src="https://img.shields.io/badge/-maker_5-2C6CAF?&logoColor=white&style=for-the-badge"/>&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;&nbsp;![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;&nbsp;![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)<br>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<table cellpadding="0">
+    <tr style="padding: 0">
+      <!-- GitHub Stats Card -->  
+      <td valign="top">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=JaimeMoreira&show_icons=true&theme=radical#gh-dark-mode-only"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimeMoreira&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=radical&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff">
+      </td>
+    </tr>
+  </table>
 
-## :cat:  GitHub Status 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaimeMoreira&theme=transparent&bg_color=000&border_color=3A3DC&show_icons=true&icon_color=3A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Calma pessoal! Eu vou melhorar :smile:
 
