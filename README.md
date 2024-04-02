@@ -54,7 +54,8 @@ Aprendi muito também sobre:
 
 - Redes, protocolos, Firewalls como CISCO ASA e Fortigate :lock:, sistemas como GLPI, Nagvis,Antivírus McAfee, Zabbix, AnyDesk, TeamView, Spark e hardwares biométricos, onde realizava instalação, treinamento e manutenção.
 
-Após essa maravilhosa experiência, em Março de 2023, parti para outra área, a de técnico administrativo na Secretaria de Educação da Bahia, onde permaneci durante 1 ano, e durante esse tempo iniciei também meus estudos na área da Programação. Buscando me aprimorar cada dia mais, desenvolvi ( e continuo me aprimorando) habilidades com ferramentas como: Power BI, Google Sheets e Excel Avançado, para manipulação e visualização de dados através de gráficos e layouts simples de serem compreendidos. Nos estudos para me tornar um desenvolvedor, estou me empenhando nos estudos de HTML5, CSS, JavaScript, Python, MySQL entre outras ferramentas. Estou buscando uma nova posição de trabalho, voltado para área de Desenvolvimento.
+Exerci o cargo de Assistente Administrativo por 4 anos (SAC/SAEB e SEC) onde desenvolvi e aprimorei meus conhecimentos em Power BI, Google Sheets, Excel Avançado, e outras ferramentas administrativas. Iniciei meus estudos na área da Programação em 2023, visando me tornar um Desenvolvedor. Atualmente estou empenhado em agregar stacks e habilidades em Html, CSS, JavaScript, Python, MySQL, Java, entre outras ferramentas. Estou buscando uma nova posição de trabalho, voltado para área de Desenvolvimento/Programação.
+
 
 
 </details>
