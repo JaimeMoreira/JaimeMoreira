@@ -14,14 +14,7 @@ Estou no momento ativo nos estudos do curso <b>CC50 de Harvard</b>, na minha gra
 - [Bootcamp Potência Tech iFood: Desafio - criando sua primeira landing page com Html e CSS.](https://github.com/JaimeMoreira/trilha-css-desafio-01)
 - [Bootcamp Santander 2023 Ciência de Dados com Python: Desafio - criando um relatório em Power BI.](https://github.com/JaimeMoreira/Desafio-DIO-PBI)
 - [CC50 Harvard: Desafio - Criar uma animação em scratch.](https://github.com/JaimeMoreira/scratch-Desafio)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaimeMoreira/JaimeMoreira/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaimeMoreira/JaimeMoreira/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JaimeMoreira/JaimeMoreira/output/github-contribution-grid-snake.svg">
-</picture>
 <br>
-
 <div align = "center">
 
 ## Tecnologias que estudo no momento :star:
