@@ -9,7 +9,7 @@
 - Aluno [Harvard CC50 - Introdução a Ciência da Computação](https://ead.estudar.org.br/c/cc50/)🎯
 - Aluno [Faculdade Uniasselvi - Análise e Desenvolvimento de Sistemas](https://portal.uniasselvi.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/ead?gclid=Cj0KCQjw2a6wBhCVARIsABPeH1tVNd-ehZz7_WkqhMTbH-PQWKxDXyD6onpEsvsPTDQQWWhyCCasrdgaAhlMEALw_wcB)🎯
 
-Estou no momento ativo nos estudos do curso <b>CC50 de Harvard</b>, na minha graduação em Análise e Desenvolvimento de Sistemas e me desenvolvendo com cursos da <b>[DIO](https://www.dio.me/)</b> onde realizei (e continuo realizando) bootcamps e cursos voltados para a área da programação.  Vou deixar o link de alguns repositórios para que possam dar uma olhada :smile::
+Recentemente, concluí o curso de Ciência da Computação de Harvard no Brasil, reforçando minhas habilidades em desenvolvimento e sistemas complexos. Iniciei um novo desafio como Administrador de Sistemas na Secretaria de Segurança Pública, onde participo da migração para novos sistemas de identificação biométrica e desenvolvimento de soluções web. Abaixo vou deixar links de alguns repositórios para que possam dar uma olhada :smile::
 
 - [Bootcamp Potência Tech iFood: Desafio - criando sua primeira landing page com Html e CSS.](https://github.com/JaimeMoreira/trilha-css-desafio-01)
 - [Bootcamp Santander 2023 Ciência de Dados com Python: Desafio - criando um relatório em Power BI.](https://github.com/JaimeMoreira/Desafio-DIO-PBI)
@@ -24,7 +24,7 @@ Estou no momento ativo nos estudos do curso <b>CC50 de Harvard</b>, na minha gra
 
 ### Frameworks:
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;&nbsp;![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;&nbsp;![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;&nbsp;![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Banco de Dados:
 
@@ -54,9 +54,7 @@ Aprendi muito também sobre:
 
 - Redes, protocolos, Firewalls como CISCO ASA e Fortigate :lock:, sistemas como GLPI, Nagvis,Antivírus McAfee, Zabbix, AnyDesk, TeamView, Spark e hardwares biométricos, onde realizava instalação, treinamento e manutenção.
 
-Exerci o cargo de Assistente Administrativo por 4 anos (SAC/SAEB e SEC) onde desenvolvi e aprimorei meus conhecimentos em Power BI, Google Sheets, Excel Avançado, e outras ferramentas administrativas. Iniciei meus estudos na área da Programação em 2023, visando me tornar um Desenvolvedor. Atualmente estou empenhado em agregar stacks e habilidades em Html, CSS, JavaScript, Python, MySQL, Java, entre outras ferramentas. Estou buscando uma nova posição de trabalho, voltado para área de Desenvolvimento/Programação.
-
-
+Exerci o cargo de Assistente Administrativo por 4 anos (SAC/SAEB e SEC) onde desenvolvi e aprimorei meus conhecimentos em Power BI, Google Sheets, Excel Avançado, e outras ferramentas administrativas. Iniciei meus estudos na área da Programação em 2023, visando me tornar um Desenvolvedor. Atualmente estou empenhado em agregar stacks e habilidades em Django, Html, CSS, JavaScript, Python, MySQL, entre outras ferramentas.
 
 </details>
 
