@@ -46,15 +46,8 @@ Recentemente, concluí o curso de Ciência da Computação de Harvard no Brasil,
 
 <summary> Clique aqui e conheça um pouco da minha trajetória! </summary>
 
-Me chamo <b>Jaime Moreira</b>, sou de Salvador- Ba e atualmente estou no processo de graduação em Análise e Desenvolvimento de Sistemas (2° período). Trabalhei durante 6 anos como Analista de Suporte Service Desk na Secretaria de Segurança Pública da Bahia, onde tive a oportunidade de aprender sobre Manutenção preventiva e corretiva de hardwares como:
-
-- Impressoras, câmeras, scanners, PC's, e dispositivos de segurança biométrica.
-
-Aprendi muito também sobre: 
-
-- Redes, protocolos, Firewalls como CISCO ASA e Fortigate :lock:, sistemas como GLPI, Nagvis,Antivírus McAfee, Zabbix, AnyDesk, TeamView, Spark e hardwares biométricos, onde realizava instalação, treinamento e manutenção.
-
-Exerci o cargo de Assistente Administrativo por 4 anos (SAC/SAEB e SEC) onde desenvolvi e aprimorei meus conhecimentos em Power BI, Google Sheets, Excel Avançado, e outras ferramentas administrativas. Iniciei meus estudos na área da Programação em 2023, visando me tornar um Desenvolvedor. Atualmente estou empenhado em agregar stacks e habilidades em Django, Html, CSS, JavaScript, Python, MySQL, entre outras ferramentas.
+Me chamo <b>Jaime Moreira</b>, sou de Salvador- Ba e atualmente estou no processo de graduação em Análise e Desenvolvimento de Sistemas (2° período). Trabalhei durante 6 anos como Analista de Suporte Service Desk na Secretaria de Segurança Pública da Bahia (SSP-BA), logo após sair para exercer um cargo de Técnico administrativo na Secretaria da Educação da Bahia - SEC, onde fiquei por 1 ano e 2 meses. Atualmente estou de volta na SSP, porém exercendo o cargo de Administrador de Sistemas. Nesses anos de trabalho com tecnologia e  administração pública conseguir somar muitas habilidades primordiais, desde manutenção de hardare e softwares biométricos, até a criação de dashboards e sistemas com powerbi para uso de Secretarios do Estado, e sistemas com google sheets para agilizar todo o processo de demandas do setor de notas técnicas do Governador e Secretaria de Educação.
+Iniciei meus estudos na área da Programação em 2023, visando me tornar um Desenvolvedor WEB. Atualmente estou empenhado em agregar stacks e habilidades em Django, Html, CSS, JavaScript, Python, MySQL, entre outras ferramentas.
 
 </details>
 
