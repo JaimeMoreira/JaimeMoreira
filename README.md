@@ -5,8 +5,9 @@
 ## Esse é um resumo sobre mim:
 </div>
 
-- Aluno [Embaixador DIO Campus Expert Turma 7](https://web.dio.me/track/dio-campus-expert-turma-07) ✔️
-- Aluno [Harvard CC50 - Introdução a Ciência da Computação](https://ead.estudar.org.br/c/cc50/)✔️
+- Programador, Desenvolvedor e Administrador de Sistemas do Instituto de Identificação Pedro Mello.
+- [Embaixador DIO Campus Expert Turma 7](https://web.dio.me/track/dio-campus-expert-turma-07) ✔️
+- [Harvard CC50 - Introdução a Ciência da Computação](https://ead.estudar.org.br/c/cc50/)✔️
 - Aluno [Faculdade Uniasselvi - Análise e Desenvolvimento de Sistemas](https://portal.uniasselvi.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/ead?gclid=Cj0KCQjw2a6wBhCVARIsABPeH1tVNd-ehZz7_WkqhMTbH-PQWKxDXyD6onpEsvsPTDQQWWhyCCasrdgaAhlMEALw_wcB)🎯
 
 Recentemente, concluí o curso de Ciência da Computação de Harvard no Brasil, reforçando minhas habilidades em desenvolvimento e sistemas complexos. Iniciei um novo desafio como Administrador de Sistemas na Secretaria de Segurança Pública, onde participei da migração para novos sistemas de identificação biométrica e atuo como desenvolvedor web para soluções de interesse da Secretaria e do Estado. Abaixo vou deixar links de alguns repositórios para que possam dar uma olhada :smile::
