@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jaime Moreira
 
-### Software Engineer • Tech Lead • AI Engineering Graduate Student
+### Full-Stack Developer • Tech Lead • AI Engineering Graduate Student
 
 Building scalable SaaS platforms with Python, Django, FastAPI and Artificial Intelligence.
 
